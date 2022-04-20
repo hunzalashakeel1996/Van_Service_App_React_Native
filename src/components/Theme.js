@@ -1,0 +1,16 @@
+export default {
+    FONT_SIZE_SMALL: 12,
+    FONT_SIZE_MEDIUM: 14,
+    FONT_SIZE_LARGE: 16,
+    PRIMARY_COLOR: '#14345A',
+    SECONDARY_COLOR: '#fedd00',
+    BLACK_COLOR: '#000000',
+    WHITE_COLOR: '#ffffff',
+    RED_COLOR: "#ee3d3c",
+    GREEN_COLOR: "#26b24a",
+    BORDER_COLOR: "#cccccc",
+    FONT_WEIGHT_LIGHT: "200",
+    FONT_WEIGHT_MEDIUM: "600",
+    FONT_WEIGHT_HEAVY: "800",
+    FONT_WEIGHT_BOLD: "bold"
+  };

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "540629351078",
+    "firebase_url": "https://vanwala.firebaseio.com",
+    "project_id": "vanwala",
+    "storage_bucket": "vanwala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540629351078:android:48eda7683b465ceb1ad267",
+        "android_client_info": {
+          "package_name": "com.vanwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540629351078-ae1cn51ofst5ffsc3mg4p4aqhebbntqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLe5y94aN43o9ag33KfObyNgt_ezdEp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540629351078-ae1cn51ofst5ffsc3mg4p4aqhebbntqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540629351078:android:384c8d083cdd7ad01ad267",
+        "android_client_info": {
+          "package_name": "com.vanwalay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540629351078-ae1cn51ofst5ffsc3mg4p4aqhebbntqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLe5y94aN43o9ag33KfObyNgt_ezdEp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540629351078-ae1cn51ofst5ffsc3mg4p4aqhebbntqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+cd android
+
+//for app.abb file
+./gradlew bundleRelease  
+
+
+//for app.apk file
+./gradlew assembleRelease  
+
+//to deploy release version direct to mobile
+react-native run-android --variant=release
